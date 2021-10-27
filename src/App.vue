@@ -5,6 +5,8 @@
 
 <style lang="scss">
 @import "./style/simple-grid/bootstrap-grid.scss";
+@import "./style/variables.scss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Mulish:wght@700&family=Open+Sans:wght@400;600&family=Roboto:wght@400;500&display=swap');
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
